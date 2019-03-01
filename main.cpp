@@ -30,6 +30,9 @@ int main() {
             case 4:
                 runPancake();
                 break;
+            case 69:
+                cout << "( ͡° ͜ʖ ͡°)" << endl;
+                break;
             default:
                 break;
         }
