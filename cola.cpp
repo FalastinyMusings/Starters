@@ -44,7 +44,7 @@ void colaDispense(int choice){
         default:beverage = "";
     }
     if (beverage.empty()){
-        cout << "Invalid selection, here is your money back!";
+        cout << "Invalid selection, here is your money back!" << endl;
     }
     else {
         cout << "Here is your " << beverage << "!" << endl;
