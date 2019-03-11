@@ -3,4 +3,4 @@ project(Starters)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Starters main.cpp Grade.h grade.cpp grade.h cola.cpp cola.h gullible.cpp gullible.h pancake.cpp pancake.h)
+add_executable(Starters main.cpp Grade.h grade.cpp grade.h cola.cpp cola.h gullible.cpp gullible.h pancake.cpp pancake.h TicTacToe.cpp TicTacToe.h stringIn.cpp stringIn.h)
